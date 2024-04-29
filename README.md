@@ -1,5 +1,5 @@
 # k*-fold cross-validation in protein subcellular localization
-![PredictProtein](/images/img1.png)
+![PredictProtein](/img1.png)
 
 ## Description
 Perform *k*-fold cross-validation for tuning the following parameters of a random forest model.
@@ -19,7 +19,7 @@ k_fold(k, './data/Archaeal_tfpssm.csv', 'performance.csv')
 
 <br> 
 
-![cross-validation](/images/img2.png)
+![cross-validation](/img2.png)
 
 ### Input: Archaeal_tfpssm.csv
 
